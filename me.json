@@ -1,0 +1,8 @@
+{
+    "name" : "Kasper",
+    "age" : 23,
+    "haircolor" : "blonde",
+    "height" : "180cm",
+    "Male" : true,
+    "hobbies" : ["eating", "working"]
+}
